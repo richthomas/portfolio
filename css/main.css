@@ -1,0 +1,63 @@
+body {
+  background-color:#DADFE1;
+}
+
+
+.jumbotron {
+  background-image: url("../images/workspace.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin-top: -40px;
+  padding: 20% 20% 20% 20%;
+  background-attachment: fixed;
+  background-position: center -238px;
+  }
+
+h2 {
+  text-align: center;
+  font-family: 'Bangers', 'san-serif';
+  color: #F7FAFE;
+}
+
+h2, p {
+  padding: 1% 4% 1% 4%;
+  text-align: center;
+}
+
+.work {
+    background-color: #44A8D9;
+}
+
+.work-text {
+    padding: 5% 10% ;
+    text-align: center;
+}
+
+.about-banner {
+    background-color: #44A8D9;
+
+}
+
+.about-text {
+    padding: 5% 10% ;
+    text-align: center;
+}
+
+img {
+  background-color: #F7FAFE;
+  border-radius: 32px;
+}
+
+.git_logo{
+  margin-left: 250px;
+}
+
+.linkedin_logo {
+  margin-left: 250px;
+}
+
+.footer-banner h2 {
+  background-color: #44A8D9;
+
+}
